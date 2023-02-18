@@ -1,0 +1,263 @@
+<Rentals>
+	<movie>
+		<Name>Pirates of Carrebean</Name>
+		<rentedBy>Matt</rentedBy>
+		<address>21 street, Glenwood</address>
+		<city>Louth</city>
+		<membership_id>12</membership_id>
+		<movie_id>02</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Iron Man2</Name>
+		<rentedBy>Lisely</rentedBy>
+		<address>56, Ravensdale</address>
+		<city>Louth</city>
+		<membership_id>76</membership_id>
+		<movie_id>43</movie_id>
+		<salutation>Ms</salutation>
+	</movie>
+		<movie>
+		<Name>Avatar</Name>
+		<rentedBy>Sam</rentedBy>
+		<address>45, Marshes, Dundalk</address>
+		<city>Louth</city>
+		<membership_id>32</membership_id>
+		<movie_id>56</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Bloodshot</Name>
+		<rentedBy>Yousif</rentedBy>
+		<address>12/23, Ardee</address>
+		<city>Ardee</city>
+		<membership_id>34</membership_id>
+		<movie_id>21</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Deadpool</Name>
+		<rentedBy>AJ</rentedBy>
+		<address>99, 21 street, Glenwood</address>
+		<city>Louth</city>
+		<membership_id>54</membership_id>
+		<movie_id>09</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Iron Man 3</Name>
+		<rentedBy>Milind</rentedBy>
+		<address>99, 21 street, Glenwood</address>
+		<city>Louth</city>
+		<membership_id>39</membership_id>
+		<movie_id>01</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Mr Money</Name>
+		<rentedBy>Alex</rentedBy>
+		<address>34, rockfield</address>
+		<city>Louth</city>
+		<membership_id>123</membership_id>
+		<movie_id>54</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Pablo</Name>
+		<rentedBy>Lenny</rentedBy>
+		<address>45 Glasgow</address>
+		<city>Dublin</city>
+		<membership_id>654</membership_id>
+		<movie_id>07</movie_id>
+		<salutation>Mrs</salutation>
+	</movie>
+		<movie>
+		<Name>Blood Money</Name>
+		<rentedBy>Betty</rentedBy>
+		<address>66, Rockfield</address>
+		<city>Dublin</city>
+		<membership_id>433</membership_id>
+		<movie_id>97</movie_id>
+		<salutation>Mrs</salutation>
+	</movie>
+		<movie>
+		<Name>Halloween 2</Name>
+		<rentedBy>Muriel</rentedBy>
+		<address>45 Glasgow</address>
+		<city>Dublin</city>
+		<membership_id>542</membership_id>
+		<movie_id>125</movie_id>
+		<salutation>Ms</salutation>
+	</movie>
+		<movie>
+		<Name>Damein</Name>
+		<rentedBy>Lorien</rentedBy>
+		<address>45, Marshes, Dundalk</address>
+		<city>Louth</city>
+		<membership_id>345</membership_id>
+		<movie_id>129</movie_id>
+		<salutation>Mrs</salutation>
+	</movie>
+		<movie>
+		<Name>Damsel in Distress</Name>
+		<rentedBy>Joseph</rentedBy>
+		<address>66, Rockfield</address>
+		<city>Ardee</city>
+		<membership_id>577</membership_id>
+		<movie_id>87</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>AfterSun</Name>
+		<rentedBy>Alex</rentedBy>
+		<address>99, 21 street, Glenwood</address>
+		<city>Louth</city>
+		<membership_id>998</membership_id>
+		<movie_id>31</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Bang Bang</Name>
+		<rentedBy>Hrithik</rentedBy>
+		<address>Juhu</address>
+		<city>Mumbai</city>
+		<membership_id>234</membership_id>
+		<movie_id>77</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Bajirao Mastani</Name>
+		<rentedBy>Ranveer</rentedBy>
+		<address>Chandni Chowk</address>
+		<city>Delhi</city>
+		<membership_id>764</membership_id>
+		<movie_id>11</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Bajirao Mastani</Name>
+		<rentedBy>Deepika</rentedBy>
+		<address>Bandstand</address>
+		<city>Mumbai</city>
+		<membership_id>345</membership_id>
+		<movie_id>11</movie_id>
+		<salutation>Mrs</salutation>
+	</movie>
+		<movie>
+		<Name>Jab we met</Name>
+		<rentedBy>Kareena</rentedBy>
+		<address>Bandstand</address>
+		<city>Mumbai</city>
+		<membership_id>44</membership_id>
+		<movie_id>14</movie_id>
+		<salutation>Mrs</salutation>
+	</movie>
+		<movie>
+		<Name>Jersey</Name>
+		<rentedBy>Shahid</rentedBy>
+		<address>Juhu</address>
+		<city>Mumbai</city>
+		<membership_id>543</membership_id>
+		<movie_id>16</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Pyaar Kiya to darna kya</Name>
+		<rentedBy>Salman</rentedBy>
+		<address>Bandstand</address>
+		<city>Mumbai</city>
+		<membership_id>342</membership_id>
+		<movie_id>148</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Pyaar Kiya th darna kya</Name>
+		<rentedBy>Kajol</rentedBy>
+		<address>Chowpatty</address>
+		<city>Mumbai</city>
+		<membership_id>332</membership_id>
+		<movie_id>148</movie_id>
+		<salutation>Mrs</salutation>
+	</movie>
+		<movie>
+		<Name>Toofan</Name>
+		<rentedBy>Farhan</rentedBy>
+		<address>Mindspace</address>
+		<city>Mumbai</city>
+		<membership_id>645</membership_id>
+		<movie_id>89</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Toofan</Name>
+		<rentedBy>Mrunal</rentedBy>
+		<address>Mindspace</address>
+		<city>Mumbai</city>
+		<membership_id>786</membership_id>
+		<movie_id>89</movie_id>
+		<salutation>Ms</salutation>
+	</movie>
+		<movie>
+		<Name>Love and Drama</Name>
+		<rentedBy>Miley</rentedBy>
+		<address>21 street, Glenwood</address>
+		<city>Louth</city>
+		<membership_id>359</membership_id>
+		<movie_id>153</movie_id>
+		<salutation>Ms</salutation>
+	</movie>
+		<movie>
+		<Name>Father Stu</Name>
+		<rentedBy>Matt</rentedBy>
+		<address>45, Castle Belhingam</address>
+		<city>Louth</city>
+		<membership_id>123</membership_id>
+		<movie_id>67</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Fan</Name>
+		<rentedBy>Shahrukh</rentedBy>
+		<address>Mannat</address>
+		<city>Mumbai</city>
+		<membership_id>563</membership_id>
+		<movie_id>984</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Father Stu</Name>
+		<rentedBy>Damein</rentedBy>
+		<address>34, Alex Road</address>
+		<city>Dublin</city>
+		<membership_id>889</membership_id>
+		<movie_id>67</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Deadpool</Name>
+		<rentedBy>Molly</rentedBy>
+		<address>34, Alex Road</address>
+		<city>Louth</city>
+		<membership_id>236</membership_id>
+		<movie_id>09</movie_id>
+		<salutation>Ms</salutation>
+	</movie>
+		<movie>
+		<Name>Wolverine</Name>
+		<rentedBy>Rahul</rentedBy>
+		<address>66, Rockfield</address>
+		<city>Ardee</city>
+		<membership_id>564</membership_id>
+		<movie_id>33</movie_id>
+		<salutation>Mr</salutation>
+	</movie>
+		<movie>
+		<Name>Pirates of Carrebean 2</Name>
+		<rentedBy>Lexie</rentedBy>
+		<address>66, Muirvehena</address>
+		<city>Louth</city>
+		<membership_id>998</membership_id>
+		<movie_id>05</movie_id>
+		<salutation>Ms</salutation>
+	</movie>
+</Rentals>
